@@ -1,0 +1,79 @@
+/* .mainDiv{
+
+} */
+
+body {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+.mainDiv {
+    height: 100%;
+}
+
+.mainDiv {
+    height: 100vh;
+}
+
+.mainDiv {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+
+
+
+
+.login {
+
+    margin: 10 auto;
+    width: 50%;
+    margin: 10px auto;
+    border-radius: 8px;
+}
+
+.mainDiv {
+background-color: lightblue;
+    text-align: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.mainDiv input {
+    background: transparent;
+    /* color: white; */
+    padding-left: 30px;
+    /* background-color: rgb(114, 133, 142); */
+    width: 270px !important;
+    /* border: none; */
+    border: 1px solid black;
+    /* border-radius: 20px; */
+}
+
+.adDiv{
+    margin-top: 80px !important;
+margin: 10px auto;
+    background-color: white;
+    width: 50%;
+ padding-top: 10px;
+ padding-bottom: 10px;
+    border-radius: 40px;
+}
+
+.postBtn{
+    background-color: lightslategray;
+    border-radius: 15px;
+    height:30px;
+    width: 100px;
+    border: none;
+    color: white;
+}

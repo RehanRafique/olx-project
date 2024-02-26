@@ -1,0 +1,26 @@
+.profile {
+    /* margin-top: -400px; */
+    /* margin: auto; */
+    width: 90%;
+    border: 1px solid black;
+    margin-left: 5%;
+    border-radius: 10px;
+    margin-top: 200px;
+    padding: 40px;
+}
+.profile input{
+    border: 2px solid black;
+padding-left: 20px !important;
+}
+
+
+
+.head {
+    margin-left: -255%;
+}
+
+.main {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

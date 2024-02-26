@@ -1,0 +1,105 @@
+  body {
+     margin: 0px;
+ }
+
+ body {
+     margin: 0px;
+     height: 100%;
+ }
+
+ .mainLogin {
+     height: 100%;
+ }
+
+ .mainLogin {
+     height: 100vh;
+ }
+
+ .mainLogin {
+     position: absolute;
+     top: 0px;
+     right: 0px;
+     bottom: 0px;
+     left: 0px;
+ }
+
+
+
+
+
+
+ .login {
+
+     margin: 10 auto;
+     width: 50%;
+     margin: 10px auto;
+     border-radius: 8px;
+ }
+
+ .mainLogin {
+     text-align: center;
+     background-image: url("https://raw.githubusercontent.com/RehanRafique/images/main/bg.jpg");
+     background-size: 100%;
+     width: 100%;
+     background-repeat: no-repeat;
+ }
+
+ .mainLogin input ::placeholder {
+     color: red !important;
+     background-color: aqua !important;
+
+ }
+
+ .mainLogin input {
+     background: transparent;
+     color: white;
+     padding-left: 30px;
+     background-color: rgb(114, 133, 142);
+     width: 270px !important;
+     border: none;
+     border-radius: 20px;
+ }
+
+ .signInBtn{
+     height: 40px;
+     width: 270px !important;
+     border: none;
+     color: white;
+     border-radius: 20px;
+     background-color: palevioletred;
+ }
+
+ .regBtn {
+     background-color: black !important;
+     color: white;
+     height: 40px;
+     width: 200px !important;
+     border-radius: 35px;
+ }
+
+
+
+ .mainLogin ::placeholder {
+     color: white !important;
+     opacity: 1 !important;
+
+ }
+
+
+ .login p {
+    color: white;
+ } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

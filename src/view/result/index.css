@@ -1,0 +1,22 @@
+.result {
+    border: 1px solid black;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 50%;
+    background-color: azure;
+    margin-left: 25%;
+}
+
+.resultDiv {
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+
+}
+
+.result h1 {
+    color: black;
+}
+
+

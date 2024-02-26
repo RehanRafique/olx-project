@@ -1,0 +1,44 @@
+.parent {
+    width: auto !important;
+    /* background-color: violet; */
+    height: auto !important;
+    display: inline-block;
+}
+
+
+.parentImg {
+    height: 50px;
+    width: 60px !important;
+    margin-right: 30px;
+}
+.cart{
+    display: inline-block;
+}
+.cart-no{
+    font-size: 15px;
+}
+.logOutBtn {
+    border: none;
+    background-color: rgb(247, 248, 248) !important;
+margin-right: 10px;
+}
+
+.logOutBtn :hover {
+    text-decoration: none;
+}
+
+.child button {
+    border: none;
+    background-color: rgb(247, 248, 248) !important;
+}
+
+.child {
+    /* display: none; */
+    width: 100;
+    background-color: aqua;
+    height: 100px;
+}
+
+.parent :hover .child {
+    display: block !important;
+}

@@ -1,0 +1,31 @@
+.history {
+    width: 100% !important;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.mPHbEtoCJhWrhHhke3gd1AHaEK&pid=Api&P=0&h=220");
+    /* background-color: black !important; */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+    height: 100vh;
+}
+
+.history h1 {
+    margin-left: 45%;
+    color: white;
+}
+
+.his {
+    margin-left: 25%;
+    height: auto;
+    width: 50%;
+    border-radius: 10px;
+    /* padding-top: 300px; */
+    padding-left: 30px;
+    border: 1px solid black;
+}
+
+.his p {
+    color: black;
+    font-size: large;
+}
